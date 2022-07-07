@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+
+# Data
+data/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+.pytest_cache/
+cover/
+*.swp
+
