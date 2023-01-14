@@ -1,7 +1,7 @@
 # Experiment Report:
 
 ## Source Hypothesis: 
-[(H#) Hypothesis Name < as in the Hypothesis Backlog >](../readme.md#Hypothesis Name)
+[(H#) Hypothesis Name, as written in the Hypothesis Backlog](../readme.md#slugified-hypothesis-name)
 
 ## Work Planning
 ### Milestones:
@@ -18,7 +18,7 @@
 >  - Define best technical/business metrics for the model evaluation
 #### ...
 ### Expected Outcomes:
- < Optional field; what is expected from the experiment besides hypothesis validation. >
+Optional field; what is expected from the experiment besides hypothesis validation.
 #### Expected Outcome 1:
 > Description of what is expected after completing the Experiment. 
 #### Expected Outcome 2:
@@ -33,16 +33,12 @@
  < Must answer questions raised by the Milestones, but not limited to them >
  
 ### Takeaway 1
- < work contained on a single Analysis >
- 
 Analysis Task: [yyyymmdd-xxx-analysis-task-one.ipynb](./yyyymmdd-xxx-analysis-task-one.ipynb)
-> Description of the takeaway, pointing out enough evidence to support the discoveries. When connected to a Milestone, the text should point out how the evience changed the prior knowledge from when the Milestone was first sketched.
-### Takeaway 2
- < work contained on several Analysis >
- 
+> Description of the takeaway in which the work contained on a single Analysis. The description should point out enough evidence to support the discoveries. When connected to a Milestone, the text should point out how the evience changed the prior knowledge from when the Milestone was first sketched.
+### Takeaway 2 
 Analysis Tasks:  
 - [yyyymmdd-xxx-analysis-task-one.ipynb](./yyyymmdd-xxx-analysis-task-one.ipynb)
 - [yyyymmdd-xxx-analysis-task-two.ipynb](./yyyymmdd-xxx-analysis-task-two.ipynb)
 - [yyyymmdd-xxx-analysis-task-three.ipynb](./yyyymmdd-xxx-analysis-task-three.ipynb)
-> A takeaway may reference more than one analysis notebook, specially when there are more complex EDA and Modeling tasks involved. The text should remain as summarized as possible, pointing out the most relevant information. If a reader wishes to read further about a specific topic, the information should be easily accessible on the Analysis notebook.
+> A takeaway may reference more than one analysis notebook, specially when there are more complex EDA and Modeling tasks involved. The Analysis Tasks should be described as a bullet-point list, as shown above. The text should remain as summarized as possible, pointing out the most relevant information. If a reader wishes to read further about a specific topic, the information should be easily accessible on the Analysis notebook.
 ### ...
