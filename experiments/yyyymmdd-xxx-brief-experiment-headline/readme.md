@@ -12,25 +12,37 @@
 >  - Importante step to milestone
 >  - Another step to milestone
 >  ...
+#### Milestone 3
+> Examples of Milestones:
+>  - Define Train/Dev/Test/Validation splits for the dataset
+>  - Define best technical/business metrics for the model evaluation
 #### ...
 ### Expected Outcomes:
+ < Optional field; what is expected from the experiment besides hypothesis validation. >
 #### Expected Outcome 1:
-> 
+> Description of what is expected after completing the Experiment. 
 #### Expected Outcome 2:
-> 
+> If more outcomes are expected, each should have their own subsection.
+#### Expected Outcome 3:
+> Examples of expected outcomes:
+> - A model pipeline for predicting Y from features extracted from dataset X;
+> - Definition of groups of interest (clusters, cohorts, etc) in the dataset.
 #### ...
 
 ## Takeaways:
- < List of Takeaways; must answer questions raised by the Milestones, but not limited to them  >
+ < Must answer questions raised by the Milestones, but not limited to them >
+ 
 ### Takeaway 1
  < work contained on a single Analysis >
+ 
 Analysis Task: [yyyymmdd-xxx-analysis-task-one.ipynb](./yyyymmdd-xxx-analysis-task-one.ipynb)
 > Description of the takeaway, pointing out enough evidence to support the discoveries. When connected to a Milestone, the text should point out how the evience changed the prior knowledge from when the Milestone was first sketched.
 ### Takeaway 2
  < work contained on several Analysis >
+ 
 Analysis Tasks:  
 - [yyyymmdd-xxx-analysis-task-one.ipynb](./yyyymmdd-xxx-analysis-task-one.ipynb)
 - [yyyymmdd-xxx-analysis-task-two.ipynb](./yyyymmdd-xxx-analysis-task-two.ipynb)
 - [yyyymmdd-xxx-analysis-task-three.ipynb](./yyyymmdd-xxx-analysis-task-three.ipynb)
-> Description of the takeaway...
+> A takeaway may reference more than one analysis notebook, specially when there are more complex EDA and Modeling tasks involved. The text should remain as summarized as possible, pointing out the most relevant information. If a reader wishes to read further about a specific topic, the information should be easily accessible on the Analysis notebook.
 ### ...
